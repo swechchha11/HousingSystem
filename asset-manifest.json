@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HousingSystem/static/css/main.4ed3febb.css",
+    "main.js": "/HousingSystem/static/js/main.d11991cf.js",
+    "index.html": "/HousingSystem/index.html",
+    "main.4ed3febb.css.map": "/HousingSystem/static/css/main.4ed3febb.css.map",
+    "main.d11991cf.js.map": "/HousingSystem/static/js/main.d11991cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed3febb.css",
+    "static/js/main.d11991cf.js"
+  ]
+}
